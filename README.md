@@ -5,3 +5,5 @@ The code simulates the free-running frequency of the laser. Then it computes the
 
 ![Free running frequency](https://github.com/MaloBriend/optical_feedback_simulation/blob/main/free_running_frequency.png?raw=true)
 ![Free running frequency](https://github.com/MaloBriend/optical_feedback_simulation/blob/main/frequency_jumps.png?raw=true)
+
+The last part of the code shows the evolution of the optical feedback rate beta, the locking range and some other parameters.
