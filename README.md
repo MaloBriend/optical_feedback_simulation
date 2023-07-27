@@ -1,6 +1,6 @@
 # Optical feedback simulation
 
-This Python code reproduces the figures of the article "Optical feedback linear cavity-enhanced absorption spectroscopy" DOI: 10.1364/OE.431934. 
+This Python code reproduces the figures of the article "Optical feedback linear cavity-enhanced absorption spectroscopy" by J.Tian et al, DOI: 10.1364/OE.431934. 
 The code simulates the free-running frequency of the laser. Then it computes the real frequency jumps. The last part of the code shows the evolution of the optical feedback rate beta, the locking range and some other parameters.
 
 ## Code structure
