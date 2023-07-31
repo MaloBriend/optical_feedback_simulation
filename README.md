@@ -32,8 +32,6 @@ A(\omega) = \frac{(1-R)^2}{(1-R)^2 + 4R\sin^2(\omega L/c)}
 
 These are the main plots of the code :
 
-![Free running frequency](https://github.com/MaloBriend/optical_feedback_simulation/blob/main/free_running_frequency.png?raw=true)
+<img src="https://github.com/MaloBriend/optical_feedback_simulation/blob/main/free_running_frequency.png" width="400" />
 
-![Free running frequency](https://github.com/MaloBriend/optical_feedback_simulation/blob/main/frequency_jumps.png?raw=true)
-
-
+<img src="https://github.com/MaloBriend/optical_feedback_simulation/blob/main/frequency_jumps.png" width="400" />
